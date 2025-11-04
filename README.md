@@ -3,17 +3,17 @@ A cooperative two player coin collection game
 https://arcade.makecode.com/S03939-07556-11645-27361
 
 
-Table of contents 
-General Information
-Technologies Used
-Features
-Screenshots
-Setup
-Usage
-Project Status
-Room for Improvement
-Acknowledgements
-Contact
+- Table of contents 
+- General Information
+- Technologies Used
+- Features
+- Screenshots
+- Setup
+- Usage
+- Project Status
+- Room for Improvement
+- Acknowledgements
+- Contact
 
 
 General information 
